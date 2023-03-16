@@ -11,7 +11,7 @@ settings:
   monitorLabelNotOperational: 'Ei pystyssä'
   monitorLabelNoData: 'Ei tietoa'
   dayInHistogramNoData: 'Ei tietoa'
-  dayInHistogramOperational: 'Makeimmillaan
+  dayInHistogramOperational: 'Makeimmillaan'
   dayInHistogramNotOperational: ' incident(s)' # xx incident(s) recorded
 
 monitors:
